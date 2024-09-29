@@ -7,3 +7,4 @@ INDEX VERSION 1.131+/Users/heeju/workspace2/zerobase_pre_learning/.metadata/.plu
 3728908583.index
 1183423146.index
 3749759760.index
+3955511467.index
