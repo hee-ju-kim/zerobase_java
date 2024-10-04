@@ -20,8 +20,8 @@
   | 6-1   | [다차원 배열](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_06_1) |다차원 배열 - 1차원배열, 이차원배열|20240929|
   | 7-1   | [클래스와 객체](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_07_1) |클래스와 객체 - 클래스, 객체, 메소드, 생성자, this  |20240929|
   | 7-2   | [클래스와 객체](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_07_2) |클래스와 객체 - 오버로딩, 접근제어자, Static |20240929|
-  | 8-1   | [상속](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_08_1) |상속 - 상속, super/super(), 오버라이딩 |20240929|
-  | 9-1   | [다형성](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_09_1) |다형성 - 다형성, instanceof |20240929|
-  | 10-1   | [추상클래스](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_10_1) |추상클래스 - 추상메소드, 추상클래스 |20240929|
+  | 8-1   | [상속](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_08_1) |상속 - 상속, super/super(), 오버라이딩 |20241004|
+  | 9-1   | [다형성](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_09_1) |다형성 - 다형성, instanceof |20241004|
+  | 10-1   | [추상클래스](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_10_1) |추상클래스 - 추상메소드, 추상클래스 |20241004|
  
 </details>
