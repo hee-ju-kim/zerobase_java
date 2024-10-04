@@ -1,4 +1,4 @@
-## 제로베이스 사전학습 - Java 기초
+## 제로베이스 - Java 기초
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/hee-ju-kim/zerobase_pre_learning)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hee-ju-kim/zerobase_pre_learning)
