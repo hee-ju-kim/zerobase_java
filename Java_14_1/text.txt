@@ -1,0 +1,13 @@
+예외(Exception)
+- 정상저이지 않은 Case
+try {
+} catch (예외 케이스 ) {
+} finally {
+}
+
+finally
+예외 발생 여부와 관계 없이 항상 실행됨
+
+throw, throws
+-throw : 예외를 발생시킴
+-throws : 예외를 전가시킴
