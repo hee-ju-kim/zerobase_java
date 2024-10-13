@@ -1,0 +1,33 @@
+스트림(Stream)
+- 배열, 컬렉션 등 데이터를 하나씩 참조하여 처리 가능한 기능
+- for문 사용을 줄여 코드를 간결하게함
+- 스트림은 크게 3가지로 구성
+  1. Stream생성
+  2. 중개 연산
+  3. 최종연산
+  데이터 소스객체.Stream생성().중개연산().최종연산();
+
+Stream 생성
+- 배열 스트림
+String[] arr = new String[]{"a","b","c"};
+Stream s = Arrays.stream();
+
+- 컬렉션 스트림
+ArrayList list = new ArrayList(Arrays.asList(1,2,3));
+Stream stream = list.stream();
+
+스트림 중개 연산
+- Filtering: filter 내부 조건에 참인 요소들을 추출
+IntStream intStream = IntStream.range(1, 10).filter(n -> n % 2 == 0);
+
+- Mapping: map 안의 연산을 욧소별로 수행
+IntStream intStream = IntStream.range(1, 10).map(n -> n + 1);
+
+최종연산
+- Sum, Average
+IntStream.range(1, 5).sum()
+IntStream.range(1, 5).average().getAsDouble()
+
+- min, max
+IntStream.range(1, 5).min().getAsInt();
+IntStream.range(1, 5).max().getAsInt();
