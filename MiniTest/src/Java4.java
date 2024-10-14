@@ -3,9 +3,9 @@ import java.util.Scanner;
 
 public class Java4 {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
         try {
             System.out.println("[주민등록번호 계산]");
-            Scanner sc = new Scanner(System.in);
             System.out.print("출생년를 입력해주세요.(yyyy):");
             int year = sc.nextInt();
             System.out.print("출생월을 입력해주세요.(mm):");
@@ -24,6 +24,8 @@ public class Java4 {
             System.out.printf("%04d%02d%02d-%s", year, month, date, rest);
         } catch (Exception e) {
             System.out.println("e = " + e);
+        } finally {
+            sc.close();
         }
     }
 }

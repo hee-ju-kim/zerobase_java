@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Java6 {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
         try {
-            Scanner sc = new Scanner(System.in);
             System.out.print("총 진행할 투표수를 입력해주세요.");
             int votes = sc.nextInt();
             System.out.print("가상 선거를 진행할 후보자 인원을 입력해주세요.");
@@ -41,6 +41,8 @@ public class Java6 {
             System.out.printf("[투표결과] 당선인 : %s", names[maxIdx]);
         } catch (Exception e) {
             System.out.println("e = " + e);
+        } finally {
+            sc.close();
         }
     }
 }

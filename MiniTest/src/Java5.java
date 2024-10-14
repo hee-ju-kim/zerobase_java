@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 public class Java5 {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
         try {
-            Scanner sc = new Scanner(System.in);
             System.out.println("[달력 출력 프로그램]");
             System.out.print("달력의 년도를 입력해주세요.(yyyy)");
             int year = sc.nextInt();
@@ -21,9 +21,10 @@ public class Java5 {
             printCalendar(date);
             printCalendar(next);
 
-            sc.close();
         } catch (Exception e) {
             System.out.println("e = " + e);
+        } finally {
+            sc.close();
         }
     }
 

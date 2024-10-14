@@ -13,9 +13,9 @@ import java.util.Scanner;
 
 public class Java3 {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
         try {
             System.out.println("[입장권 계산]");
-            Scanner sc = new Scanner(System.in);
             System.out.print("나이를 입력해주세요.(숫자):");
             int age = sc.nextInt();
             System.out.print("입장시간을 입력해주세요.(숫자):");
@@ -37,6 +37,8 @@ public class Java3 {
             System.out.printf("입장료: %d", amount);
         } catch (Exception e) {
             System.out.println("e = " + e);
+        } finally {
+            sc.close();
         }
     }
 }
