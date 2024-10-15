@@ -27,6 +27,11 @@
   | 12-1   | [내부클래스](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_12_1) |내부클래스 - 인스턴스 클래스, 정적클래스, 지역클래스, 익명클래스 |20241007|
   | 13-1   | [입출력](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_13_1) |입출력 - 콘솔 입출력 |20241007|
   | 13-2   | [입출력](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_13_2) |입출력 - 파일입출력 |20241007|
+  | 14-1   | [예외처리](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_14_1) | 예외처리 - try/catch, throw/throws |20241013|
+  | 15-1   | [컬렉션 프레임워크](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_15_1) | 컬렉션프레임워크 - List, Set, Map |20241013|
+  | 16-1   | [람다식](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_15_1) | 람다식 |20241013|
+  | 17-1   | [스트림](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_15_1) | 스트림 - 스트림 생성, 중개연산, 최종연산 |20241013|
+  | 18-1   | [연습문제](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_15_1) | 연습문제 |20241013|
  
 </details>
 
@@ -36,6 +41,13 @@
   | No | 내용                                                                                                                                                                                         |날짜|
   | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
   | 1   | [구구단 출력](https://github.com/hee-ju-kim/zerobase_java/blob/main/MiniTest/src/Java1.java) |20241007|
+  | 2   | [결제 캐시백 프로그램](https://github.com/hee-ju-kim/zerobase_java/blob/main/MiniTest/src/Java2.java) |20241013|
+  | 3   | [입장권 계산 프로그램](https://github.com/hee-ju-kim/zerobase_java/blob/main/MiniTest/src/Java3.java) |20241013|
+  | 4   | [주민등록번호 생성 프로그램](https://github.com/hee-ju-kim/zerobase_java/blob/main/MiniTest/src/Java4.java) |20241013|
+  | 5   | [달력출력 프로그램](https://github.com/hee-ju-kim/zerobase_java/blob/main/MiniTest/src/Java5.java) |20241014|
+  | 6   | [가상선거 프로그램](https://github.com/hee-ju-kim/zerobase_java/blob/main/MiniTest/src/Java6.java) |20241014|
+  | 7   | [로또 당첨 프로그램](https://github.com/hee-ju-kim/zerobase_java/blob/main/MiniTest/src/Java7.java) |20241014|
+  | 8   | [연소득 과세 계산 프로그램](https://github.com/hee-ju-kim/zerobase_java/blob/main/MiniTest/src/Java8.java) |20241014|
  
  
 </details>
