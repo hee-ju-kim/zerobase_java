@@ -31,7 +31,6 @@
   | 15-1   | [컬렉션 프레임워크](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_15_1) | 컬렉션프레임워크 - List, Set, Map |20241013|
   | 16-1   | [람다식](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_15_1) | 람다식 |20241013|
   | 17-1   | [스트림](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_15_1) | 스트림 - 스트림 생성, 중개연산, 최종연산 |20241013|
-  | 18-1   | [연습문제](https://github.com/hee-ju-kim/zerobase_java/tree/main/Java_15_1) | 연습문제 |20241013|
  
 </details>
 
@@ -48,6 +47,16 @@
   | 6   | [가상선거 프로그램](https://github.com/hee-ju-kim/zerobase_java/blob/main/MiniTest/src/Java6.java) |20241014|
   | 7   | [로또 당첨 프로그램](https://github.com/hee-ju-kim/zerobase_java/blob/main/MiniTest/src/Java7.java) |20241014|
   | 8   | [연소득 과세 계산 프로그램](https://github.com/hee-ju-kim/zerobase_java/blob/main/MiniTest/src/Java8.java) |20241014|
+ 
+ 
+</details>
+
+<details>
+  <summary>연습문제</summary>
+
+  | No | 내용                                                                                                                                                                                         |날짜|
+  | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
+  | 18   | [연습문제 5개](https://github.com/hee-ju-kim/zerobase_java/tree/main/practice1) |20241118|
  
  
 </details>
