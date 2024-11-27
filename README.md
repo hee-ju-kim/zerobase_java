@@ -58,6 +58,7 @@
   | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |--|
   | 18   | [연습문제 5개](https://github.com/hee-ju-kim/zerobase_java/tree/main/practice1) |20241118|
   | 19   | [연습문제 5개](https://github.com/hee-ju-kim/zerobase_java/tree/main/practice2) |20241120|
+  | 20   | [연습문제 5개](https://github.com/hee-ju-kim/zerobase_java/tree/main/practice3) |20241126|
  
  
 </details>
